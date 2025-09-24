@@ -7,9 +7,11 @@ Click on vertices to select handle or anchor points
 
 Use C to toggle between anchor and handle points
 
-W for translations
-E for rotations
-R for scaling
+- W for translations
+
+- E for rotations
+
+- R for scaling
 
 
 ## Compile
