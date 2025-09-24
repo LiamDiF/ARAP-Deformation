@@ -1,6 +1,16 @@
 ## Video Demo
 https://github.com/user-attachments/assets/be9e0643-f5e5-4d73-a3ae-7cf4a2195a33
 
+## Inputs
+
+Click on vertices to select handle or anchor points
+
+Use C to toggle between anchor and handle points
+
+W for translations
+E for rotations
+R for scaling
+
 
 ## Compile
 
